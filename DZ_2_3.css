@@ -1,0 +1,15 @@
+
+div {
+	width: 420px;
+	padding: 0px 5px;
+	border: 2px solid #000;
+	border-style: dashed;
+}
+
+sup, sub {
+	font-style: italic;
+}
+
+.one {
+	margin-top: 7px;
+}

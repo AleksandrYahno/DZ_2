@@ -1,0 +1,26 @@
+div {
+	width: 250px;
+	padding: 0px 5px;
+	border: 2px solid #000;
+	border-style: dashed;
+}
+
+span {
+	font-style: italic;
+}
+
+.one {
+	margin-top: 7px;
+}
+
+.two {
+	margin-bottom: 25px;
+}
+
+.collor2 {
+	color: red;
+}
+
+.collor1 {
+	color: blue;
+}

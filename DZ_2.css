@@ -1,0 +1,54 @@
+
+/*певрое задание закоментировано */
+/*body {
+	background: blue;
+}*/
+
+h2 {
+	width: 100px;
+ 	background: red;
+ 	color: white;
+}
+
+.on {
+	height: 50px;
+	width: 500px;
+ 	font-size: 15px;
+ 	background: #3e1bd6;
+ 	color: black;
+}
+
+.tw {
+	height: 40px;
+	width: 500px;
+ 	font-size: 15px;
+ 	background: yellow;
+ 	color: black;
+}
+
+.one {
+	height: 50px;
+	width: 60px;
+ 	background: red;
+}
+
+.two {
+	height: 50px;
+	width: 120px;
+ 	background: orange;
+}
+
+.three {
+	height: 50px;
+	width: 180px;
+ 	background: #3e1bd6;
+}
+
+.four {
+	padding: 20px; 
+	height: 50px;
+	width: 150px;
+ 	font-size: 30px;
+ 	background: #FD7343;
+ 	color: black;
+}
